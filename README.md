@@ -51,7 +51,7 @@ Visit the hosted application: [Landing Page](https://fantv-landing.netlify.app/)
 * `/src/components/reusable`: Reusable/base React components.
 * `/src/components/icons`: Icons components.
 * `/src/constants`:Constants variable which uses thoughout the Application.
-* `/src/pages`: For page of App.
+* `/src/pages`: For pages of App.
 
 ## Dependencies
 
