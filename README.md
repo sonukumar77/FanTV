@@ -46,11 +46,12 @@ Visit the hosted application: [Landing Page](https://fantv-landing.netlify.app/)
 ## Project Structure
 
 * `/src`: Contains the source code for the React application.
-* `/components`: React components.
-* `/components/reusable`: Reusable/base React components.
-* `/components/icons`: Icons components.
-* `/constants`:Constants variable which uses thoughout the Application.
-* `/pages`: For page of App.
+* `/src/assets`: For images,fonts etc.
+* `/src/components`: React components.
+* `/src/components/reusable`: Reusable/base React components.
+* `/src/components/icons`: Icons components.
+* `/src/constants`:Constants variable which uses thoughout the Application.
+* `/src/pages`: For page of App.
 
 ## Dependencies
 
